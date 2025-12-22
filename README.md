@@ -1,5 +1,5 @@
 # PaisaBazaar-EDA
-# 📝 <u> **Summary** </u>
+## 📝 <u> **Summary** </u>
 This EDA is for PaisaBazaar company to help them enhance their credit assessment process and reduce risks of potential fraud and default. 
 
 By identifying deviations from the typical behaviour, we can eliminate the anomalies and have the dataset cleaned for better predictions and to improve future fraud detection models.
