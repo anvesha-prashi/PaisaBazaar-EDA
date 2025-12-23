@@ -1,4 +1,5 @@
 # PaisaBazaar-EDA
+[Streamlit App Link](https://paisabazaar-capstone.streamlit.app/)
 ## 📝 <u> **Summary** </u>
 This EDA is for PaisaBazaar company to help them enhance their credit assessment process and reduce risks of potential fraud and default. 
 
