@@ -38,8 +38,15 @@ EDA was conducted to understand the distribution and behavior of key numerical a
 Extreme values were retained, as they often represent high-risk customers rather than data errors.
 
 ## 🔍 Key Insights
-- Customers with good credit scores tend to have lower interest rates and longer credit histories
-- Poor credit score customers are distributed across a wide range of financial values
-- Interest rate, outstanding debt, and delayed payments show moderate positive correlations
-- Several variables exhibit overlapping distributions, highlighting the complexity of credit behavior
+Poor credit score customers consistently shift toward:
+  - Higher outstanding debt and interest rates.
+  - Higher number of payment delays as well as number of delayed days from payment
+  - Lower credit history
+  - More credit inquiries.
+
+Strong Categorical indicators include Credit-Mix and Minimum Amount Payments.
+  - Customers who have bad credit-mix almost certainly have poor credit scores.
+  - Customers who have only pay minimum amount also tend to have low credit scores.
+    
+Several variables exhibit overlapping distributions, highlighting the complexity of credit behavior
 
